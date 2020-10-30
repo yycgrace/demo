@@ -1,0 +1,20 @@
+#cardtable tbody{
+    background-color: #CFD8DC;
+}
+
+#cardtable tbody>tr:nth-child(odd){
+    background-color: #FFF;
+}
+
+#cardtable tbody>tr:hover{
+    background-color: #607D8B;
+}
+
+.chgaim{
+    background-color: #FFF !important;
+}
+
+.aimcol{
+    background-color: #455A64;
+}
+
